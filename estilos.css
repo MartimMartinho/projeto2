@@ -1,0 +1,37 @@
+body {
+    background-color: #171717;
+	text-align:center;
+}
+h1 {
+    font-family:"Michroma", sans-serif;
+    font-size: 70px;
+}
+h2 {
+    color: #FAFAFB;
+    font-family: "Playwrite IT Trad", cursive;
+	font-size: 40px;
+}
+destaque {
+    background-color: #F06029;
+    margin: 15px;
+}
+header {
+    background-color: #1597a8;
+    color: #FAFAFB;
+    text-align: center;
+}
+p {
+	color: #FAFAFB;
+	font-size:20px ;
+}
+ul {
+	color:#FAFAFB;
+	font-size: 20px;
+}
+a {
+	color:#1597a8;
+}
+
+/*1. A regra que eu achei mais dicil de aplicar foi o margin pois eu de inicio não estava a compreender como o mesmo funcionava, mas depois de experimentar algumas maneiras consegui que desse certo, utilizando numeros seguidos de "px".
+2. Sim, existiu vários erros, mas o que me fez mais vezes voltar ao notepad++ foi o querer alterar uma cor e depois ter de alterar as outras todas, onde por exemplo se metesse o fundo preto depois tinha de mudar a cor dos parágrafos e dos textos.
+3. Eu utilizei 2 vezes o href para a criação do meu site. A primeira vez utilizei para ligar o meu ficheiro html ao ficheiro css, colocando o nome do ficheiro css depois da tag href. A segunda vez utilizei para colocar um link na minha pagina para redirecionar para o site do jogo.
